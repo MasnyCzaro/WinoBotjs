@@ -1,0 +1,14 @@
+{
+  "name": "wino-bot",
+  "version": "0.0.1",
+  "description": "bot do wiezienia xd",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Czaro",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
